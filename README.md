@@ -1,2 +1,2 @@
 # parking-control-api
-Api desenvolvida para controle e vagas de estacionamento
+Api desenvolvida para controle de vagas de estacionamento
